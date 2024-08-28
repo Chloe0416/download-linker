@@ -9,7 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chloe0416/file-link-downloader.git"
+  },
+  "homepage": "https://github.com/Chloe0416/file-link-downloader"
 }
